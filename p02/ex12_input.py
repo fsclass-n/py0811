@@ -13,3 +13,11 @@ print(type(a))
 
 a = float(a)
 print(type(a))
+
+# 출력: shift+enter
+c = 17 / 7
+print(c) # 2.4285714285714284
+print(type(c)) # <class 'float'>
+
+c = round(c, 1)
+print(c) # 2.4

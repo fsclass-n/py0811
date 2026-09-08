@@ -2,6 +2,7 @@ numpy
 numpy-financial
 pandas
 scipy
+statsmodels
 matplotlib
 requests
 beautifulsoup4

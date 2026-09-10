@@ -6,3 +6,4 @@ statsmodels
 matplotlib
 requests
 beautifulsoup4
+lxml
